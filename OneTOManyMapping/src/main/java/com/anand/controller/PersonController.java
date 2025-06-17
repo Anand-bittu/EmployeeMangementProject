@@ -47,13 +47,12 @@ public class PersonController {
 	    System.out.println("inside responseEntity");
 		return new ResponseEntity<Person>(personByID,HttpStatus.OK);
 	}
-	 //task7
+
 	public void m7() {
 		System.out.println("M7 method ");
 	}
 	public void m8() {
 		System.out.println("m8 method");
 	}
-	
-	
+
 }
