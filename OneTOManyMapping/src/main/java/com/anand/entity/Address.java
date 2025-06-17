@@ -26,6 +26,7 @@ public class Address {
 	
 	public Address() {
 		// TODO Auto-generated constructor stub
+		int a=90;
 	}
 	public int getAid() {
 		return aid;
