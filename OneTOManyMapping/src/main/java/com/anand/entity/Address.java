@@ -26,6 +26,7 @@ public class Address {
 	
 	public Address() {
 		// TODO Auto-generated constructor stub
+		System.out.println("inside Address");
 	}
 	public int getAid() {
 		return aid;
