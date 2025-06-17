@@ -25,8 +25,8 @@ public class Address {
 	private Person person;
 	
 	public Address() {
-		// TODO Auto-generated constructor stub
 		int a=90;
+		System.out.println("inside Address");
 	}
 	public int getAid() {
 		return aid;
