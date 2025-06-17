@@ -63,6 +63,11 @@ public class PersonServices {
 		Person person=personRepo.findById(id).get();
 		return person!=null ? person:null;
 	  }
+	  public void m2() {
+		  System.out.println("m2 method");
+		  int j=40;
+		  System.out.println(j);
+	  }
 	
 	
 	
