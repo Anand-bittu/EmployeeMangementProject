@@ -69,6 +69,13 @@ public class PersonServices {
 		  System.out.println(j);
 	  }
 	
-	
+	// Task 15
+	  public void m1() {
+		  int a=10;
+		  int b=20;
+		  System.out.println(a+b);
+		  System.out.println("inside M1 method");
+	  }
+	  
 	
 }
