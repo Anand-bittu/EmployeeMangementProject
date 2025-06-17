@@ -36,6 +36,7 @@ public class PersonServices {
 	
 	//delete the person from the database
 	public void delete_Person(int pid) {
+		int a=10;
 		personRepo.deleteById(pid);
 	}
      
