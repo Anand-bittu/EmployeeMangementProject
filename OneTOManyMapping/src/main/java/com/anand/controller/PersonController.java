@@ -51,6 +51,9 @@ public class PersonController {
 	public void m7() {
 		System.out.println("M7 method ");
 	}
+	public void m8() {
+		System.out.println("m8 method");
+	}
 	
 	
 }
